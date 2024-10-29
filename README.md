@@ -3,6 +3,9 @@
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
+# NAME.:PRIYA.B
+# REF.NO:24900803
+
 
 ## REQUIREMENTS
 
@@ -42,6 +45,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![Screenshot_29-10-2024_134019_](https://github.com/user-attachments/assets/371636a7-9e61-404e-94dd-ef22790f3a08)
 
 
 ## RESULT
